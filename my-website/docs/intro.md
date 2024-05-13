@@ -1,47 +1,32 @@
 ---
+sidebar_label: '介绍'
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+***时尚手到擒来：轻松管理与搭配您的衣橱***
 
-## Getting Started
+## 重新定义您的穿搭体验！
 
-Get started by **creating a new site**.
+**穿搭管理**是一款专为时尚爱好者设计的穿搭管理应用，助您轻松管理衣物并创造完美搭配。不论是日常出行还是特殊场合，只需几步即可选择合适的服饰，同时，每日穿搭记录功能帮助您追踪与回顾每一天的风格选择。下载**穿搭管理**，开启您的专属时尚之旅！
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 功能特色
 
-### What you'll need
+### 衣物分类管理
+快速添加并分类您的衣物，无论是外套、裤子还是配饰，都能一目了然。通过详细的分类系统，轻松管理您的每一件衣物。
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### 穿搭搭配规划
+根据您的衣物库存提供搭配选择。您可以根据场合、季节或个人喜好筛选和选择，轻松找到理想的搭配。
 
-## Generate a new site
+### 日常穿搭记录
+不再为每天穿什么而烦恼。我们的日历功能可以记录您每天的穿搭，帮助您分析和优化穿衣风格，避免重复穿搭。
 
-Generate a new Docusaurus site using the **classic template**.
+### 智能搜索与过滤
+通过强大的搜索和过滤功能，快速找到您需要的那一件。无论是按颜色、类别还是喜爱程度，都能轻松筛选。
 
-The classic template will automatically be added to your project after you run the command:
+## 备注
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- 无需用户登录
+- 请确保在iOS 17.1或更高版本下运行
+- 请确保应用有权访问网络，以便与iCloud连接

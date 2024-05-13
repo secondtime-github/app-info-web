@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'secondtime-github', // Usually your GitHub org/user name.
+  projectName: 'app-info-web', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: '技术支持',
-                to: '/docs/intro',
+                to: '/docs/support',
               },
             ],
           },
@@ -103,7 +103,7 @@ const config = {
             items: [
               {
                 label: '隐私政策',
-                to: '/docs/policy',
+                to: '/docs/private-policy',
               },
               // {
               //   label: 'Stack Overflow',
@@ -124,12 +124,8 @@ const config = {
             items: [
               {
                 label: '许可协议',
-                to: '/docs/policy',
+                href: 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/',
               },
-              // {
-              //   label: 'GitHub',
-              //   href: 'https://github.com/facebook/docusaurus',
-              // },
             ],
           },
         ],
