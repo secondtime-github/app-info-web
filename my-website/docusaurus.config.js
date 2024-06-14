@@ -74,9 +74,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'outfitSidebar',
             position: 'left',
-            label: '文档',
+            label: '穿搭',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'excerciseSidebar',
+            position: 'left',
+            label: '健身',
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           // {
@@ -94,7 +100,7 @@ const config = {
             items: [
               {
                 label: '技术支持',
-                to: '/docs/support',
+                to: '/docs/outfit/support',
               },
             ],
           },
@@ -103,7 +109,7 @@ const config = {
             items: [
               {
                 label: '隐私政策',
-                to: '/docs/private-policy',
+                to: '/docs/outfit/privacy-policy',
               },
               // {
               //   label: 'Stack Overflow',
