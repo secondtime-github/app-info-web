@@ -1,5 +1,5 @@
 ---
-sidebar_label: '介紹'
+sidebar_label: '產品介紹'
 sidebar_position: 1
 ---
 

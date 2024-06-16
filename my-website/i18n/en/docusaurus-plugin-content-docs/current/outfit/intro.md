@@ -1,32 +1,33 @@
 ---
-sidebar_label: '介绍'
+sidebar_label: 'Product Introduction'
 sidebar_position: 1
 ---
 
-# 介绍
+# Product Introduction
 
-***时尚手到擒来：轻松管理与搭配您的衣橱***
+***Effortless Fashion: Easily Manage and Style Your Wardrobe***
 
-## 重新定义您的穿搭体验！
+## Redefine Your Dressing Experience!
 
-**穿搭管理**是一款专为时尚爱好者设计的穿搭管理应用，助您轻松管理衣物并创造完美搭配。不论是日常出行还是特殊场合，只需几步即可选择合适的服饰，同时，每日穿搭记录功能帮助您追踪与回顾每一天的风格选择。下载**穿搭管理**，开启您的专属时尚之旅！
+**Simple Style** is a fashion management app designed for fashion enthusiasts to easily manage their clothes and create perfect outfits. Whether it's for daily outings or special occasions, you can select the right clothes in just a few steps. The daily outfit recording feature helps you track and review your style choices every day. Download **Simple Style** and start your personalized fashion journey!
 
-## 功能特色
+## Features
 
-### 衣物分类管理
-快速添加并分类您的衣物，无论是外套、裤子还是配饰，都能一目了然。通过详细的分类系统，轻松管理您的每一件衣物。
+### Clothing Categorization Management
+Quickly add and categorize your clothes. Whether it's coats, pants, or accessories, everything is clearly organized. Manage each piece of clothing effortlessly through a detailed categorization system.
 
-### 穿搭搭配规划
-根据您的衣物库存提供搭配选择。您可以根据场合、季节或个人喜好筛选和选择，轻松找到理想的搭配。
+### Outfit Planning
+Get outfit suggestions based on your clothing inventory. You can filter and choose according to occasion, season, or personal preference, making it easy to find the ideal outfit.
 
-### 日常穿搭记录
-不再为每天穿什么而烦恼。我们的日历功能可以记录您每天的穿搭，帮助您分析和优化穿衣风格，避免重复穿搭。
+### Daily Outfit Recording
+No more worrying about what to wear every day. Our calendar feature records your daily outfits, helping you analyze and optimize your dressing style, and avoid repeating outfits.
 
-### 智能搜索与过滤
-通过强大的搜索和过滤功能，快速找到您需要的那一件。无论是按颜色、类别还是喜爱程度，都能轻松筛选。
+### Smart Search and Filtering
+Quickly find the item you need with powerful search and filtering features. Whether by color, category, or preference, easily filter through your wardrobe.
 
-## 备注
+## Notes
 
-- 无需用户登录
-- 请确保在iOS 17.1或更高版本下运行
-- 请确保应用有权访问网络，以便与iCloud连接
+- No user login required
+- Ensure the app runs on iOS 17.1 or higher
+- Ensure the app has network access to connect with iCloud
+

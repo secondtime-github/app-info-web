@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Introduction'
+sidebar_label: 'Product Introduction'
 sidebar_position: 1
 ---
 
