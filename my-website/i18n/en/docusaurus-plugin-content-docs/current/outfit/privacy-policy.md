@@ -1,40 +1,40 @@
 ---
-sidebar_label: '隐私政策'
+sidebar_label: 'Privacy Policy'
 sidebar_position: 3
 ---
 
-# 隐私政策
+# Privacy Policy
 
-欢迎使用**穿搭管理**！我们尊重您的隐私权，并致力于保护您使用我们应用时的隐私安全。本隐私政策旨在透明地解释我们在您使用**穿搭管理**时如何处理相关的个人信息。
+Welcome to **Simple Style**! We respect your privacy rights and are committed to protecting your privacy when you use our app. This privacy policy aims to transparently explain how we handle related personal information when you use **Simple Style**.
 
-### 1. 信息收集
+### 1. Information Collection
 
-**穿搭管理**不收集或存储任何个人信息。所有数据如衣橱条目、穿搭记录均储存在您的设备本地以及您的iCloud账户中。我们无法访问这些信息。
+**Simple Style** does not collect or store any personal information. All data such as wardrobe entries and outfit records are stored locally on your device and in your iCloud account. We have no access to this information.
 
-### 2. 本地存储与iCloud
+### 2. Local Storage and iCloud
 
-为了提供持续的个性化服务，**穿搭管理**利用您设备的存储功能来保存必要的数据，并且可能使用您的iCloud来进行数据的备份和同步，以便在您的所有设备之间保持数据一致性。这些数据只由您控制，我们无法访问。
+To provide continuous personalized service, **Simple Style** utilizes your device’s storage to save necessary data and may use your iCloud for data backup and synchronization, ensuring data consistency across all your devices. This data is controlled solely by you, and we have no access to it.
 
-### 3. 信息使用
+### 3. Information Usage
 
-由于我们不收集您的个人数据，因此也不存在使用这些数据的情形。
+Since we do not collect your personal data, there are no instances of using such data.
 
-### 4. 第三方分享
+### 4. Third-Party Sharing
 
-我们承诺，没有第三方可以访问您在**穿搭管理**中的个人数据，因为我们不会从App中收集此类信息。
+We guarantee that no third parties can access your personal data in **Simple Style**, as we do not collect such information from the app.
 
-### 5. 用户权利
+### 5. User Rights
 
-所有在**穿搭管理**中创建和存储的数据完全由您控制。您可以随时查看、更改或删除您的数据。
+All data created and stored in **Simple Style** is entirely controlled by you. You can view, modify, or delete your data at any time.
 
-### 6. 儿童隐私
+### 6. Children’s Privacy
 
-由于我们不收集任何用户的个人信息，因此不存在未成年人个人信息的收集问题。
+Since we do not collect any personal information from users, there is no issue of collecting personal information from minors.
 
-### 7. 隐私政策的变更
+### 7. Changes to the Privacy Policy
 
-我们可能会不时更新本隐私政策以反映功能更新或法律要求的变更。变更将在本页面公布。
+We may update this privacy policy from time to time to reflect updates to our features or changes in legal requirements. Changes will be posted on this page.
 
-### 8. 联系我们
+### 8. Contact Us
 
-如果您对本隐私政策或**穿搭管理**的隐私实践有任何疑问，请通过邮件与我们联系。
+If you have any questions about this privacy policy or the privacy practices of **Simple Style**, please contact us via email.
