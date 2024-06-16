@@ -1,18 +1,18 @@
 {
   "title": {
-    "message": "管理套装",
+    "message": "Management Suite",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "SimpleStyle Logo",
+    "message": "Logo",
     "description": "The alt text of navbar logo"
   },
   "item.label.穿搭": {
-    "message": "穿搭",
+    "message": "Styling",
     "description": "Navbar item with label 穿搭"
   },
   "item.label.健身": {
-    "message": "健身",
+    "message": "Fitness",
     "description": "Navbar item with label 健身"
   }
 }
