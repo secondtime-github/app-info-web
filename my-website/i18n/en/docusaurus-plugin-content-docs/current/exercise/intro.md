@@ -1,32 +1,44 @@
 ---
-sidebar_label: '介绍'
+sidebar_label: 'Introduction'
 sidebar_position: 1
 ---
 
-# 介绍
+# Product Introduction
 
-***时尚手到擒来：轻松管理与搭配您的衣橱***
+***Quick Fit: Effortlessly Record and Manage Your Fitness Data***
 
-## 重新定义您的穿搭体验！
+## Redefine Your Fitness Experience!
 
-**穿搭管理**是一款专为时尚爱好者设计的穿搭管理应用，助您轻松管理衣物并创造完美搭配。不论是日常出行还是特殊场合，只需几步即可选择合适的服饰，同时，每日穿搭记录功能帮助您追踪与回顾每一天的风格选择。下载**穿搭管理**，开启您的专属时尚之旅！
+**Quick Fit** is a fitness tracking app designed for fitness enthusiasts, helping you easily manage daily fitness data and track your progress. Whether it's strength training or cardio, you can record your fitness activities in just a few steps, while the history feature helps you analyze and optimize your fitness plans each day. Download **Quick Fit** and embark on your personalized fitness journey!
 
-## 功能特色
+## Key Features
 
-### 衣物分类管理
-快速添加并分类您的衣物，无论是外套、裤子还是配饰，都能一目了然。通过详细的分类系统，轻松管理您的每一件衣物。
+### Record Fitness Data
 
-### 穿搭搭配规划
-根据您的衣物库存提供搭配选择。您可以根据场合、季节或个人喜好筛选和选择，轻松找到理想的搭配。
+Log daily fitness data, including weights, reps, and sets for different exercises. Gain a comprehensive understanding of your fitness status.
 
-### 日常穿搭记录
-不再为每天穿什么而烦恼。我们的日历功能可以记录您每天的穿搭，帮助您分析和优化穿衣风格，避免重复穿搭。
+### View Historical Records
 
-### 智能搜索与过滤
-通过强大的搜索和过滤功能，快速找到您需要的那一件。无论是按颜色、类别还是喜爱程度，都能轻松筛选。
+Access past daily fitness records and track your progress. Analyze training effects and create more effective fitness plans.
 
-## 备注
+### Data Analysis
 
-- 无需用户登录
-- 请确保在iOS 17.1或更高版本下运行
-- 请确保应用有权访问网络，以便与iCloud连接
+Organize and analyze fitness data to provide detailed reports. Gain a full understanding of your fitness progress and optimize your training strategy.
+
+### Multi-language Support
+
+Now available in Simplified Chinese, Traditional Chinese, English, and Japanese. Use it effortlessly in different language environments.
+
+### Cross-platform Compatibility
+
+Now supports iPhone, iPad, Mac, and the new Vision Pro. Access your fitness data anytime on any device.
+
+### iOS 18 Adaptation
+
+Introduces dark mode and tinted mode icons. Enhance your user experience with comfort and personalization.
+
+## Notes
+
+- No user login required
+- Ensure running on iOS 17.5 or higher
+- Ensure the app has network access to connect with iCloud
