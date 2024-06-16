@@ -1,0 +1,30 @@
+{
+  "link.title.技术": {
+    "message": "技术",
+    "description": "The title of the footer links column with title=技术 in the footer"
+  },
+  "link.title.用户": {
+    "message": "用户",
+    "description": "The title of the footer links column with title=用户 in the footer"
+  },
+  "link.title.更多": {
+    "message": "更多",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.技术支持": {
+    "message": "技术支持",
+    "description": "The label of footer link with label=技术支持 linking to /docs/outfit/support"
+  },
+  "link.item.label.隐私政策": {
+    "message": "隐私政策",
+    "description": "The label of footer link with label=隐私政策 linking to /docs/outfit/privacy-policy"
+  },
+  "link.item.label.许可协议": {
+    "message": "许可协议",
+    "description": "The label of footer link with label=许可协议 linking to https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 Teki Hou. All rights reserved.",
+    "description": "The footer copyright"
+  }
+}

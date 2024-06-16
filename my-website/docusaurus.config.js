@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: '穿搭管理',
   tagline: '探索无限搭配可能',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.png',
 
   // Set the production url of your site here
   url: 'https://app-info-web.vercel.app',
@@ -31,7 +31,21 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['en', 'ja', 'zh-Hant', 'zh-Hans'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      ja: {
+        label: '日本語',
+      },
+      'zh-Hans': {
+        label: '简体中文',
+      },
+      'zh-Hant': {
+        label: '繁體中文',
+      },
+    }
   },
 
   presets: [
@@ -64,12 +78,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/icon.png',
       navbar: {
-        title: '穿搭管理',
+        title: '管理套装',
         logo: {
           alt: 'SimpleStyle Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.png',
         },
         items: [
           {
@@ -83,6 +97,10 @@ const config = {
             sidebarId: 'excerciseSidebar',
             position: 'left',
             label: '健身',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           // {
