@@ -1,31 +1,31 @@
 ---
-sidebar_label: '隐私政策'
+sidebar_label: 'Privacy Policy'
 sidebar_position: 3
 ---
 
-# 隐私政策
+# Privacy Policy
 
-感谢您使用我们的健身管理应用程序（以下简称“本应用”）。本隐私政策旨在向您说明我们如何处理和保护您的个人信息。我们非常重视您的隐私，因此在设计和开发本应用时，我们确保用户信息的安全性和保密性。
+Thank you for using our **Quick Fit** application (hereinafter referred to as "the App"). This Privacy Policy is intended to explain how we handle and protect your personal information. We highly value your privacy, and therefore, we ensure the security and confidentiality of user information during the design and development of the App.
 
-### 1. 信息收集
-本应用不会收集任何用户的个人信息。所有用户数据都储存在用户的本地设备和iCloud中。本应用不会访问、收集、存储或传输任何个人信息。
+### 1. Information Collection
+The App does not collect any personal information from users. All user data is stored on the user's local device and in iCloud. The App does not access, collect, store, or transmit any personal information.
 
-### 2. 信息使用
-由于本应用不收集用户信息，因此不存在任何使用用户信息的情况。所有的数据处理和存储均在用户的设备和iCloud上进行。
+### 2. Information Usage
+Since the App does not collect user information, there is no situation where user information is used. All data processing and storage are carried out on the user's device and in iCloud.
 
-### 3. 信息共享
-我们不会与任何第三方分享、出售或出租您的个人信息。由于我们不收集任何用户信息，因此不存在与第三方共享信息的可能性。
+### 3. Information Sharing
+We do not share, sell, or rent your personal information to any third party. Since we do not collect any user information, there is no possibility of sharing information with third parties.
 
-### 4. 数据安全
-我们重视您的数据安全，并采取合理的技术和组织措施保护您的数据。由于所有数据均保存在用户本地和iCloud中，确保了您的数据不被未经授权的访问、使用或泄露。
+### 4. Data Security
+We value your data security and take reasonable technical and organizational measures to protect your data. Since all data is stored locally and in iCloud, it ensures that your data is not accessed, used, or disclosed without authorization.
 
-### 5. 用户权利
-您对自己的数据拥有完全的控制权。由于我们不收集、存储或处理任何用户信息，您可以随时管理和删除储存在您本地设备和iCloud中的数据。
+### 5. User Rights
+You have complete control over your data. Since we do not collect, store, or process any user information, you can manage and delete the data stored on your local device and in iCloud at any time.
 
-### 6. 隐私政策的变更
-我们可能会不时更新本隐私政策，以反映我们的信息保护实践的变更。我们会通过应用内通知或其他适当的方式告知您这些变更。我们建议您定期查阅本政策以了解最新的信息。
+### 6. Changes to the Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our information protection practices. We will inform you of these changes through in-app notifications or other appropriate means. We recommend that you regularly review this policy to stay informed of the latest information.
 
-### 7. 联系我们
-如果您对本隐私政策有任何疑问或建议，请通过邮件联系我们。
+### 7. Contact Us
+If you have any questions or suggestions regarding this Privacy Policy, please contact us via email.
 
-感谢您使用我们的健身管理应用程序。我们致力于保护您的隐私并为您提供最优质的服务。
+Thank you for using our **Quick Fit** application. We are committed to protecting your privacy and providing you with the highest quality service.
