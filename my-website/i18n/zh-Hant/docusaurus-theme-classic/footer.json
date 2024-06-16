@@ -20,7 +20,7 @@
     "description": "The label of footer link with label=隐私政策 linking to /docs/outfit/privacy-policy"
   },
   "link.item.label.许可协议": {
-    "message": "ライセンス契約",
+    "message": "許可協議",
     "description": "The label of footer link with label=许可协议 linking to https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
   },
   "copyright": {
