@@ -1,37 +1,37 @@
 ---
-sidebar_label: '技术支持'
+sidebar_label: 'Technical Support'
 sidebar_position: 2
 ---
 
-# 技术支持
+# Technical Support
 
-欢迎访问**穿搭管理**的技术支持页面！我们致力于提供最佳的用户体验和及时的帮助。以下是一些资源，可以帮助您解决使用**穿搭管理**时可能遇到的问题。
+Welcome to the **Quick Fit** Technical Support page! We are committed to providing the best user experience and timely assistance. Below are some resources that can help you resolve any issues you may encounter while using **Quick Fit**.
 
-## 常见问题解答（FAQ）
+## Frequently Asked Questions (FAQ)
 
-在这里，您可以找到用户最常问到的问题及其解答，这可能帮助您快速解决问题而无需额外联系支持团队。
+Here, you can find answers to the most commonly asked questions, which might help you resolve issues quickly without needing to contact our support team.
 
-### 如何备份我的数据？
-答：您的数据将自动存储在本地设备和iCloud中。确保您的iCloud备份功能开启，以便跨设备同步和备份。
+### How do I back up my data?
+Answer: Your data is automatically stored on your local device and in iCloud. Make sure your iCloud backup is enabled for cross-device syncing and backup.
 
-### 我如何修改或删除我的数据？
-答：进入衣服详细页面，您可以修改或删除衣服数据。对于穿搭和记录，向左滑动也可删除数据。删除后无法撤回，请谨慎删除。
+### How can I modify or delete my data?
+Answer: You can freely add, modify, or delete exercise content. Training content can be added, modified, or deleted at any time before the training session ends. Once deleted, data cannot be recovered, so please delete with caution.
 
-### 应用崩溃，我应如何处理？
-答：确保您的应用和操作系统均为最新版本。如果问题持续存在，请重启设备或重新安装应用。
+### What should I do if the app crashes?
+Answer: Ensure that both your app and operating system are up to date. If the issue persists, try restarting your device or reinstalling the app.
 
-## 故障排除
+## Troubleshooting
 
-这部分提供了一些基本的故障排除步骤，可以解决常见的技术问题。
+This section provides some basic troubleshooting steps that can resolve common technical issues.
 
-- 确保您的应用是最新版本。
-- 重启您的设备以解决暂时性的软件问题。
-- 检查设备存储空间，确保有足够的空间运行应用。
+- Ensure that your app is the latest version.
+- Restart your device to resolve temporary software issues.
+- Check your device's storage space to ensure there is enough space to run the app.
 
-## 联系我们
+## Contact Us
 
-如果您在FAQ或故障排除中没有找到答案，您可以通过以下方式与我们的客服团队联系：
+If you do not find the answer in the FAQ or troubleshooting sections, you can contact our customer support team through the following methods:
 
-- 电子邮件：pendygg@yahoo.co.jp
+- Email: pendygg@yahoo.co.jp
 
-我们力求在24小时内回复所有查询。
+We strive to respond to all inquiries within 24 hours.
