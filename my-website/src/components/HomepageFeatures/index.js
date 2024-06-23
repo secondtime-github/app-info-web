@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '轻松管理您的衣橱',
+    title: 'Simple Style',
     image: 'img/Phone1.png',
     description: (
       <>
-        将爱衣按类别整理，一目了然
+        时尚触手可及：轻松管理与搭配您的衣橱
       </>
     ),
   },
   {
-    title: '搭配您的完美装扮',
+    title: 'Quick Fit',
     image: 'img/Phone2.png',
     description: (
       <>
-        从上到下挑选合适的服饰，轻松穿搭
+        贴心健身伴侣：助您轻松达成健康目标
       </>
     ),
   },
   {
-    title: '记录您的每日穿搭',
+    title: 'Dream Track',
     image: 'img/Phone3.png',
     description: (
       <>
-        跟踪并记录每日的着装选择，随时回顾
+        梦想成真：高效管理您的目标与任务
       </>
     ),
   },

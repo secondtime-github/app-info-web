@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '穿搭管理',
-  tagline: '探索无限搭配可能',
+  title: '管理套装',
+  tagline: '从内到外，全面自我管理与提升',
   favicon: 'img/icon.png',
 
   // Set the production url of your site here
@@ -90,13 +90,19 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'outfitSidebar',
             position: 'left',
-            label: '穿搭',
+            label: '👔穿搭',
           },
           {
             type: 'docSidebar',
             sidebarId: 'excerciseSidebar',
             position: 'left',
-            label: '健身',
+            label: '🏋️健身',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'dreamSidebar',
+            position: 'left',
+            label: '🎯目标',
           },
           {
             type: 'localeDropdown',
@@ -153,7 +159,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Teki Hou. All rights reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Teki Ho. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
