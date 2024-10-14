@@ -3,41 +3,41 @@ sidebar_label: 'Technical Support'
 sidebar_position: 2
 ---
 
-# 技术支持
+# Technical Support
 
-欢迎访问**Dream Track**的技术支持页面！我们致力于提供最佳的用户体验和及时的帮助。以下是一些资源，可以帮助您解决使用**Dream Track**时可能遇到的问题。
+Welcome to the **Dream Track** Support Page! We are committed to providing the best user experience and timely assistance. Below are some resources that can help you resolve any issues you may encounter while using **Dream Track**.
 
-## 常见问题解答（FAQ）
+## Frequently Asked Questions (FAQ)
 
-在这里，您可以找到用户最常问到的问题及其解答，这可能帮助您快速解决问题而无需额外联系支持团队。
+Here, you can find answers to common user questions, which may help you resolve issues quickly without needing to contact our support team.
 
-### 如何备份我的数据？
-答：您的数据将自动存储在本地设备和iCloud中。确保您的iCloud备份功能开启，以便跨设备同步和备份。
+### How do I back up my data?
+Answer: Your data will be automatically stored on your local device and in iCloud. Make sure your iCloud backup feature is enabled for cross-device syncing and backup.
 
-### 我如何修改或删除我的数据？
-答：目标内容可以任意添加、修改或删除。拆分任务可以根据需求随时调整。删除操作无法撤回，请谨慎删除。
+### How do I modify or delete my data?？
+Answer: You can freely add, modify, or delete dream content. Tasks can be adjusted according to your needs at any time. Please note that deleted data cannot be recovered, so proceed with caution.
 
-### 如何管理我的订阅？
-答：免费试用期结束后，订阅将自动续订，除非您在试用期结束前24小时内取消订阅。您可以在App Store中的“账户设置”中随时取消订阅，避免不必要的费用产生。
+### How do I manage my subscription?
+Answer: After the free trial period ends, the subscription will automatically renew unless you cancel it 24 hours before the trial ends. You can cancel the subscription at any time via the “Account Settings” in the App Store to avoid unnecessary charges.
 
-### 如何在新设备上恢复购买？
-答：在新设备上重新安装应用后，您可以通过进入“设置”并点击“恢复购买”选项来恢复之前的订阅。
+### How do I restore my purchases on a new device?
+Answer: After reinstalling the app on a new device, you can go to the “Settings” and click the “Restore Purchases” option to recover your previous subscriptions.
 
-### 应用崩溃，我应如何处理？
-答：确保您的应用和操作系统均为最新版本。如果问题持续存在，请重启设备或重新安装应用。
+### What should I do if the app crashes?
+Answer: Ensure that both the app and your operating system are up to date. If the issue persists, try restarting your device or reinstalling the app.
 
 ## 故障排除
 
-这部分提供了一些基本的故障排除步骤，可以解决常见的技术问题。
+This section provides basic troubleshooting steps to resolve common technical issues.
 
-- 确保您的应用是最新版本。
-- 重启您的设备以解决暂时性的软件问题。
-- 检查设备存储空间，确保有足够的空间运行应用。
+- Make sure your app is updated to the latest version.
+- Restart your device to resolve temporary software issues.
+- Check your device’s storage to ensure there’s enough space for the app to run properly.
 
-## 联系我们
+## Contact Us
 
-如果您在FAQ或故障排除中没有找到答案，您可以通过以下方式与我们的客服团队联系：
+If you cannot find the answers in the FAQ or troubleshooting sections, you can contact our customer support team via:
 
-- 电子邮件：pendygg@yahoo.co.jp
+- Email: pendygg@yahoo.co.jp
 
-我们力求在24小时内回复所有查询。
+We aim to respond to all inquiries within 24 hours.

@@ -7,12 +7,16 @@
     "message": "Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.穿搭": {
-    "message": "スタイリング",
+  "item.label.👔穿搭": {
+    "message": "👔スタイリング",
     "description": "Navbar item with label 穿搭"
   },
-  "item.label.健身": {
-    "message": "フィットネス",
+  "item.label.🏋️健身": {
+    "message": "🏋️フィットネス",
     "description": "Navbar item with label 健身"
+  },
+  "item.label.🎯目标": {
+    "message": "🎯ゴール",
+    "description": "Navbar item with label 目标"
   }
 }

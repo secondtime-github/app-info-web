@@ -7,12 +7,16 @@
     "message": "SimpleStyle Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.穿搭": {
-    "message": "穿搭",
+  "item.label.👔穿搭": {
+    "message": "👔穿搭",
     "description": "Navbar item with label 穿搭"
   },
-  "item.label.健身": {
-    "message": "健身",
+  "item.label.🏋️健身": {
+    "message": "🏋️健身",
     "description": "Navbar item with label 健身"
+  },
+  "item.label.🎯目标": {
+    "message": "🎯目標",
+    "description": "Navbar item with label 目标"
   }
 }
