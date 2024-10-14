@@ -14,7 +14,7 @@ Here, you can find answers to common user questions, which may help you resolve 
 ### How do I back up my data?
 Answer: Your data will be automatically stored on your local device and in iCloud. Make sure your iCloud backup feature is enabled for cross-device syncing and backup.
 
-### How do I modify or delete my data?？
+### How do I modify or delete my data?
 Answer: You can freely add, modify, or delete dream content. Tasks can be adjusted according to your needs at any time. Please note that deleted data cannot be recovered, so proceed with caution.
 
 ### How do I manage my subscription?
