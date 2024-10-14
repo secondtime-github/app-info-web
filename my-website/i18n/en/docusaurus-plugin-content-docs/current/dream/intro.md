@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Product Introduction
 
-***Dream Track：Turn Your Dreams Into Reality***
+***Dream Track: Turn Your Dreams Into Reality***
 
 ## The Ultimate Tool to Turn Vision into Action!
 
