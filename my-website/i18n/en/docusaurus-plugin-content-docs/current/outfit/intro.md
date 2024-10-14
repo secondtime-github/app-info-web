@@ -25,9 +25,21 @@ No more worrying about what to wear every day. Our calendar feature records your
 ### Smart Search and Filtering
 Quickly find the item you need with powerful search and filtering features. Whether by color, category, or preference, easily filter through your wardrobe.
 
+### Multi-language Support
+
+Now available in Simplified Chinese, Traditional Chinese, English, and Japanese. Use it effortlessly in different language environments.
+
+### Cross-platform Compatibility
+
+Now supports iPhone, iPad, Mac, and the new Vision Pro. Access your fitness data anytime on any device.
+
+### iOS 18 Adaptation
+
+Introduces dark mode and tinted mode icons. Enhance your user experience with comfort and personalization.
+
 ## Notes
 
 - No user login required
-- Ensure the app runs on iOS 17.1 or higher
+- Ensure the app runs on iOS 18.0 or higher
 - Ensure the app has network access to connect with iCloud
 

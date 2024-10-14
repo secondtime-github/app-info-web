@@ -40,5 +40,5 @@ Introduces dark mode and tinted mode icons. Enhance your user experience with co
 ## Notes
 
 - No user login required
-- Ensure running on iOS 17.5 or higher
+- Ensure running on iOS 18.0 or higher
 - Ensure the app has network access to connect with iCloud
