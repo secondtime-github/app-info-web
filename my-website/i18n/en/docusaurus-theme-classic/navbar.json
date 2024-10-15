@@ -9,14 +9,14 @@
   },
   "item.label.👔穿搭": {
     "message": "👔Styling",
-    "description": "Navbar item with label 穿搭"
+    "description": "Navbar item with label 👔穿搭"
   },
   "item.label.🏋️健身": {
     "message": "🏋️Fitness",
-    "description": "Navbar item with label 健身"
+    "description": "Navbar item with label 🏋️健身"
   },
   "item.label.🎯目标": {
     "message": "🎯Goal",
-    "description": "Navbar item with label 目标"
+    "description": "Navbar item with label 🎯目标"
   }
 }

@@ -26,7 +26,7 @@ Answer: After reinstalling the app on a new device, you can go to the “Setting
 ### What should I do if the app crashes?
 Answer: Ensure that both the app and your operating system are up to date. If the issue persists, try restarting your device or reinstalling the app.
 
-## 故障排除
+## Troubleshooting
 
 This section provides basic troubleshooting steps to resolve common technical issues.
 
