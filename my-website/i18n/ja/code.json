@@ -1,4 +1,28 @@
 {
+  "homePage.title": {
+    "message": "外見、身体、そして心を高める",
+    "description": "The title of home page"
+  },
+  "homePage.subtitle": {
+    "message": "外見、フィットネス、そして内面の成長を包括的にサポートする管理スイート。",
+    "description": "The subtitle of home page"
+  },
+  "homePage.download.button": {
+    "message": "あなたの成長の旅を始めましょう",
+    "description": "The title of button"
+  },
+  "homePage.app1.description": {
+    "message": "第一印象が大切です。私たちのコーディネート管理アプリは、日常のスタイリングを素早く改善し、あなたの外見を向上させます。",
+    "description": "The title of app1"
+  },
+  "homePage.app2.description": {
+    "message": "本当の美しさは服だけではありません。フィットネス管理は体を引き締め、自信をつけます。",
+    "description": "The title of app2"
+  },
+  "homePage.app3.description": {
+    "message": "身体の健康は重要ですが、内面的な成長こそが本質です。私たちの目標管理アプリは、個人的な成功や成長をサポートします。",
+    "description": "The title of app3"
+  },
   "theme.ErrorPageContent.title": {
     "message": "エラーが発生しました",
     "description": "The title of the fallback page when the page crashed"

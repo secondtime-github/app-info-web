@@ -1,4 +1,28 @@
 {
+  "homePage.title": {
+    "message": "提升形象、體態與內在",
+    "description": "The title of home page"
+  },
+  "homePage.subtitle": {
+    "message": "一個全方位的管理套件，幫助你提升外在形象、身體健康以及內在成長。",
+    "description": "The subtitle of home page"
+  },
+  "homePage.download.button": {
+    "message": "開始你的成長旅程",
+    "description": "The title of button"
+  },
+  "homePage.app1.description": {
+    "message": "第一印象很重要。我們的穿搭管理App幫助你快速提升自我形象，輕鬆搭配每日造型。",
+    "description": "The title of app1"
+  },
+  "homePage.app2.description": {
+    "message": "真正的美麗不只在於穿著。健身管理能夠塑造健康的體態，增強自信。",
+    "description": "The title of app2"
+  },
+  "homePage.app3.description": {
+    "message": "體態固然重要，但內在的提升更是關鍵。我們的目標管理App幫助你實現個人與職涯的成功。",
+    "description": "The title of app3"
+  },
   "theme.ErrorPageContent.title": {
     "message": "此頁已當機。",
     "description": "The title of the fallback page when the page crashed"

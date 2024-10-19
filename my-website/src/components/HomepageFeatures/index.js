@@ -2,13 +2,17 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
+import Translate from '@docusaurus/Translate';
+
 const FeatureList = [
   {
     title: 'Simple Style',
     image: 'img/Phone1.png',
     description: (
       <>
-        时尚触手可及：轻松管理与搭配您的衣橱
+        <Translate id="homePage.app1.description">
+          时尚触手可及：轻松管理与搭配您的衣橱
+        </Translate>
       </>
     ),
   },
@@ -17,7 +21,9 @@ const FeatureList = [
     image: 'img/Phone2.png',
     description: (
       <>
-        贴心健身伴侣：助您轻松达成健康目标
+        <Translate id="homePage.app2.description">
+          贴心健身伴侣：助您轻松达成健康目标
+        </Translate>
       </>
     ),
   },
@@ -26,7 +32,9 @@ const FeatureList = [
     image: 'img/Phone3.png',
     description: (
       <>
-        梦想成真：高效管理您的目标与任务
+        <Translate id="homePage.app3.description">
+          梦想成真：高效管理您的目标与任务
+        </Translate>
       </>
     ),
   },

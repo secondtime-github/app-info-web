@@ -1,4 +1,28 @@
 {
+  "homePage.title": {
+    "message": "Elevate Your Image, Body, and Mind",
+    "description": "The title of home page"
+  },
+  "homePage.subtitle": {
+    "message": "A comprehensive management suite to enhance your outer appearance, physical fitness, and inner goals.",
+    "description": "The subtitle of home page"
+  },
+  "homePage.download.button": {
+    "message": "Start Your Journey",
+    "description": "The title of button"
+  },
+  "homePage.app1.description": {
+    "message": "First impressions matter. Our outfit management app helps you quickly improve your self-image by guiding your daily looks.",
+    "description": "The title of app1"
+  },
+  "homePage.app2.description": {
+    "message": "True beauty goes beyond clothing. Fitness management shapes your body and builds confidence.",
+    "description": "The title of app2"
+  },
+  "homePage.app3.description": {
+    "message": "Physical health is important, but inner growth is key. Our goal management app helps you achieve personal and professional success.",
+    "description": "The title of app3"
+  },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
